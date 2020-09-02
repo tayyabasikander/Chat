@@ -22,6 +22,8 @@ const App =()=>{
     //   <Text>HI</Text>
     // </View>
     <AppNavigator />
+
+    
   )
 }
 export default App
